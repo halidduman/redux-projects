@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "id": "33e5acf1-8c00-43c8-b3b2-6a4ac77ea59b",
+      "text": "yazılım öğren",
+      "is_done": false,
+      "created_at": "27.06.2024"
+    }
+  ]
+}
